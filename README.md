@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**lucasDohnert/lucasDohnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lucas! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+#### 🤔 Well... I'm 29 now and I've been studying Systems for Internet in the Institute of Education, Science and Technology of Rio Grande do Sul for the last 2 years now and I'm currently developing my course conclusion work.
+#### 👨‍💻 Here you'll find some of the projects i'm working on and the technologies i'm using.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashackd/)
+
+
+
+
+
+
+## Contacts
+📫 lucashackd@gmail.com
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP...
+
