@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-#### 🤔 Well... I'm 29 now and I've been studying Systems for Internet in the Institute of Education, Science and Technology of Rio Grande do Sul for the last 2 years now and I'm currently developing my course conclusion work.
+#### 🤔 Well... I'm 30 now and I've been studying Systems for Internet in the Institute of Education, Science and Technology of Rio Grande do Sul for the last 2 years now and I'm currently developing my course conclusion work.
 #### 👨‍💻 Here you'll find some of the projects i'm working on and the technologies i'm using.
 
 
